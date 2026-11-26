@@ -1,0 +1,43 @@
+name: Automated Multi-Stream Daily Threat Sweep
+
+on:
+  schedule:
+    # Runs every 6 hours automatically (00:00, 06:00, 12:00, 18:00 UTC)
+    - cron: '0 */6 * * *'
+  workflow_dispatch: # Allows manual trigger anytime from GitHub Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  sweep-and-update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install Ingestion Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Harvest 24 Live Online Streams
+        run: |
+          python harvest_all_it_ai.py
+
+      - name: Recompile Reactive Radar Dashboard
+        run: |
+          python generate_dashboard.py
+
+      - name: Commit and Push Daily Telemetry Update
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Actions [Radar Bot]"
+          git add bs4_extracted_feed.json index.html
+          git diff --quiet && git diff --staged --quiet || (git commit -m "chore(telemetry): Automated live sweep across 24 streams [skip ci]" && git push)
