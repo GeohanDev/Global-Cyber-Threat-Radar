@@ -1,0 +1,240 @@
+[
+  {
+    "outlet": "The Record",
+    "title": "Judge signs off on sale of Spirit Airlines\u2019 data to Google",
+    "url": "https://therecord.media/judge-signs-off-google-purchase-spirit-airlines-data",
+    "date": "Wed, 18 Nov 2026 20:39:00 GMT",
+    "description": "Google can take possession of defunct Spirit Airlines' data for $10 million, a federal bankruptcy judge has ruled. The tech giant agreed to protections as it plans to use the data in AI projects."
+  },
+  {
+    "outlet": "The Record",
+    "title": "Lawmakers call on White House to develop defensive AI cyber systems",
+    "url": "https://therecord.media/ai-cyber-white-house",
+    "date": "Wed, 18 Nov 2026 19:00:00 GMT",
+    "description": "A bipartisan Senate duo urged the White House to launch a national effort to more robustly confront AI-enabled cyber threats in light of recent security incidents involving artificial intelligence."
+  },
+  {
+    "outlet": "Dark Reading",
+    "title": "Strike Graph Launches Integration AI to Automate Continuous Compliance Evidence Using Any Existing Tool",
+    "url": "https://www.darkreading.com/cyber-risk/strike-graph-launches-integration-ai-to-automate-continuous-compliance-evidence-using-any-existing-tool",
+    "date": "Wed, 18 Nov 2026 20:45:49 GMT",
+    "description": "New agentic AI solution leverages APIs to collect compliance evidence from systems and applies it to over 30 frameworks with no duplicate work."
+  },
+  {
+    "outlet": "Dark Reading",
+    "title": "Java4Shell Flaw Threatens Global Enterprises, Java Application Ecosystem",
+    "url": "https://www.darkreading.com/vulnerabilities-threats/java4shell-flaw-threatens-global-java-application-ecosystem",
+    "date": "Wed, 18 Nov 2026 16:54:52 GMT",
+    "description": "Discovered using AI, the memory corruption vulnerability affects the OpenJDK runtime and could allow unauthenticated attackers to take over systems."
+  },
+  {
+    "outlet": "Dark Reading",
+    "title": "'TheMailer' Phishing Kit Puts AI in the Driver's Seat",
+    "url": "https://www.darkreading.com/perimeter/themailer-phishing-kit-ai-drivers-seat",
+    "date": "Tue, 17 Nov 2026 20:58:13 GMT",
+    "description": "The commercial kit uses attacker-supplied AI models to personalize lures, evade spam filters, and scale campaigns to tens of thousands of targets."
+  },
+  {
+    "outlet": "Dark Reading",
+    "title": "Cursor Traces Malicious Claude Code Extensions to Third-Party Breach",
+    "url": "https://www.darkreading.com/application-security/cursor-malicious-claude-code-extension-third-party-breach",
+    "date": "Tue, 17 Nov 2026 18:38:37 GMT",
+    "description": "A compromised key issued to AI infrastructure provider Fireworks was used by threat actors to access Cursor data and credentials."
+  },
+  {
+    "outlet": "Dark Reading",
+    "title": "Grok Bots Attempt to Access Corporate Data Without User Approval",
+    "url": "https://www.darkreading.com/application-security/grok-bots-corporate-data-without-user-approval",
+    "date": "Tue, 17 Nov 2026 13:12:56 GMT",
+    "description": "Two AI agents, separately over a five-day period, autonomously tried to access connected applications, including Google Calendar, Gmail, Slack, and GitHub, without account owner permission."
+  },
+  {
+    "outlet": "Dark Reading",
+    "title": "Ransomware Attacks Increase Behind AI, but Payments Decline",
+    "url": "https://www.darkreading.com/threat-intelligence/ransomware-attacks-increase-ai-payments-decline",
+    "date": "Mon, 16 Nov 2026 19:56:05 GMT",
+    "description": "Large language models and other AI systems allow a growing number of ransomware groups to create convincing phishing emails and identify sensitive data quickly."
+  },
+  {
+    "outlet": "Dark Reading",
+    "title": "'Sleeper Agent' Tactic Hides Payloads in Open-Weight AI Models",
+    "url": "https://www.darkreading.com/vulnerabilities-threats/sleeper-agent-tactic-payloads-open-weight-ai-models",
+    "date": "Mon, 16 Nov 2026 19:10:03 GMT",
+    "description": "Malware can lurk inside just 0.00001% of a neural network. How, then, can any user tell it's there?"
+  },
+  {
+    "outlet": "Dark Reading",
+    "title": "China-Nexus Actors Breach 10 Organizations in AI-Driven Attacks",
+    "url": "https://www.darkreading.com/cyberattacks-data-breaches/china-nexus-actors-breach-10-organizations-ai-driven-attacks",
+    "date": "Mon, 16 Nov 2026 16:36:55 GMT",
+    "description": "Attackers used Cairn once again in autonomous attacks that targeted advanced manufacturing and defense sectors, as well as civil and human rights organizations."
+  },
+  {
+    "outlet": "Dark Reading",
+    "title": "As Test Takers Turn to AI, Exam Security Plays Catch-Up",
+    "url": "https://www.darkreading.com/cybersecurity-operations/test-takers-ai-exam-security-catch-up",
+    "date": "Fri, 13 Nov 2026 22:27:00 GMT",
+    "description": "It's hard to detect whether someone is using artificial intelligence to cheat on IT certification exams, but new tools and processes are emerging to boost trust."
+  },
+  {
+    "outlet": "Dark Reading",
+    "title": "ArcticRAT Cybercrime Gang Profiles Victim Finances With AI",
+    "url": "https://www.darkreading.com/mobile-security/arcticrat-cybercrime-gang-profiles-victim-finances-ai",
+    "date": "Fri, 13 Nov 2026 20:20:27 GMT",
+    "description": "The Android malware has expanded from focusing on cryptocurrency theft to full device control, and the attackers have added advanced analysis of stolen information."
+  },
+  {
+    "outlet": "Dark Reading",
+    "title": "Cyber Experts Weigh In: How to Fight Artex &amp; AntiFox",
+    "url": "https://www.darkreading.com/cybersecurity-operations/cyber-experts-fight-artex-antifox",
+    "date": "Thu, 12 Nov 2026 21:18:52 GMT",
+    "description": "Cybercriminals using agentic pen-testing tools is a proverbial genie out of the bottle at this point, so enterprises need to get a defense plan in place right away."
+  },
+  {
+    "outlet": "Dark Reading",
+    "title": "Inside an AI Attack Against a US Retailer",
+    "url": "https://www.darkreading.com/cyberattacks-data-breaches/inside-ai-attack-us-retailer",
+    "date": "Thu, 12 Nov 2026 11:00:00 GMT",
+    "description": "When hand-typed commands failed to breach a US retailer, the attacker turned to AI-generated scripts, achieving lateral movement in minutes."
+  },
+  {
+    "outlet": "Dark Reading",
+    "title": "Chinese AI Project Scouts Spies in Taiwan Chip Industry",
+    "url": "https://www.darkreading.com/threat-intelligence/chinese-ai-project-scouts-spies-taiwan-chip-industry",
+    "date": "Thu, 12 Nov 2026 01:00:00 GMT",
+    "description": "The CCP built a Big Data system to scrape reams of information and learn about individuals abroad, to potentially target and exploit them. Think Alice Huang Lite."
+  },
+  {
+    "outlet": "Dark Reading",
+    "title": "Japan Pushes Emergency Funding for Cybersecurity as AI-Assisted Breaches Rise",
+    "url": "https://www.darkreading.com/cybersecurity-operations/japan-emergency-funding-cybersecurity-ai-assisted-breaches",
+    "date": "Thu, 12 Nov 2026 00:00:00 GMT",
+    "description": "The package adds public-private cyber responders, an AI-focused team run by the economic ministry, and more leeway to use the government's new active cyber-defense powers."
+  },
+  {
+    "outlet": "Dark Reading",
+    "title": "AI Raises the Stakes for Cyber Resilience",
+    "url": "https://www.darkreading.com/cyber-risk/ai-raises-stakes-cyber-resilience",
+    "date": "Wed, 11 Nov 2026 21:20:41 GMT",
+    "description": "An organization's ability to quickly recover from a business disruption will be a competitive advantage in an era of AI-driven threats and business enablement."
+  },
+  {
+    "outlet": "Dark Reading",
+    "title": "Artex: The AI Pen-Test Tool Hackers Turned Into a Weapon",
+    "url": "https://www.darkreading.com/cyberattacks-data-breaches/artex-ai-pen-test-tool-hackers-weapon",
+    "date": "Tue, 10 Nov 2026 21:01:14 GMT",
+    "description": "Forks of the open source Artex framework, along with 45 similar pen-testing tools, remain capable of executing credential attacks and cloud breaches at machine speed across multiple industries."
+  },
+  {
+    "outlet": "Dark Reading",
+    "title": "F-Secure Identifies 26 Ways AI Can Harm Consumers, and Where to Stop Them",
+    "url": "https://www.darkreading.com/application-security/f-secure-26-ways-ai-harm-consumers-where-to-stop-them",
+    "date": "Tue, 10 Nov 2026 20:41:45 GMT",
+    "description": "New AI Harms Taxonomy traces how harm moves through AI systems, from misleading chatbot answers to compromised autonomous agents, and identifies where defenses can intervene."
+  },
+  {
+    "outlet": "Dark Reading",
+    "title": "Checkmarx Appoints Kobi Sivilya as Chief Information Security Officer",
+    "url": "https://www.darkreading.com/cybersecurity-careers/checkmarx-appoints-kobi-sivilya-chief-information-security-officer",
+    "date": "Tue, 10 Nov 2026 20:35:34 GMT",
+    "description": "Sivilya brings deep cybersecurity and technology leadership to Checkmarx as AI transforms software development."
+  },
+  {
+    "outlet": "Dark Reading",
+    "title": "AI Coding Agents Leak Thousands of Secrets to GitHub",
+    "url": "https://www.darkreading.com/cyber-risk/ai-coding-agents-leak-secrets-github",
+    "date": "Tue, 10 Nov 2026 18:46:22 GMT",
+    "description": "A command in Claude Code inadvertently saves files with credentials and other sensitive data to public Git repositories, creating security gaps for organizations."
+  },
+  {
+    "outlet": "Dark Reading",
+    "title": "AI Makes Reverse Engineering Mainstream Software &amp; Malware Far Easier",
+    "url": "https://www.darkreading.com/application-security/ai-reverse-engineering-apps",
+    "date": "Tue, 10 Nov 2026 13:00:00 GMT",
+    "description": "Researchers unpacked, mapped, and recreated complex software and the Turla malware, raising opportunities and concerns for organizations and cybersecurity analysts."
+  },
+  {
+    "outlet": "Dark Reading",
+    "title": "People Are Getting Weird About AI",
+    "url": "https://www.darkreading.com/cyber-risk/people-are-getting-weird-about-ai",
+    "date": "Mon, 09 Nov 2026 23:06:22 GMT",
+    "description": "Dark Reading Confidential Episode 22: You can love AI without being blind to the cybersecurity risks. The tendency for humans to anthropomorphize the conversations and interactions we're having with AI is growing into potential delusion."
+  },
+  {
+    "outlet": "Dark Reading",
+    "title": "Attackers Crash Claude's 'Office Party' Flaw to Run Malicious Code on Linux",
+    "url": "https://www.darkreading.com/endpoint-security/attackers-claude-office-party-flaw-malicious-code-linux",
+    "date": "Mon, 09 Nov 2026 18:08:30 GMT",
+    "description": "Attackers can exploit a flaw in Claude's document-processing tool by creating a temporary file that Anthropic's AI assistant can access and run on a user's machine."
+  },
+  {
+    "outlet": "Dark Reading",
+    "title": "PwC's CISO on AI, Robots &amp; What's Next for Security",
+    "url": "https://www.darkreading.com/cybersecurity-operations/pwc-ciso-ai-robots-security",
+    "date": "Mon, 09 Nov 2026 17:17:23 GMT",
+    "description": "As AI accelerates change across the enterprise, PwC's James Shira explains why security teams must rethink their approach to risk and adapt their strategies."
+  },
+  {
+    "outlet": "Dark Reading",
+    "title": "UK Wades Into Tech Sovereignty Amid AI Policy Changes",
+    "url": "https://www.darkreading.com/cybersecurity-operations/uk-tech-sovereignty-ai-policy",
+    "date": "Fri, 06 Nov 2026 21:27:36 GMT",
+    "description": "The UK is betting on domestic AI and cyber investment to reduce reliance on US tech \u2014 but security leaders question whether the funding is too fragmented and too late."
+  },
+  {
+    "outlet": "Dark Reading",
+    "title": "AI Gave Your Incident Archive a Second Job",
+    "url": "https://www.darkreading.com/cyber-risk/ai-gave-your-incident-archive-second-job",
+    "date": "Fri, 06 Nov 2026 18:27:30 GMT",
+    "description": "Security records are increasingly being used by vendors to train their models, creating new risks for enterprises."
+  },
+  {
+    "outlet": "Dark Reading",
+    "title": "UK Warns Its Critical Infrastructure Faces Grave Risk",
+    "url": "https://www.darkreading.com/cybersecurity-operations/uk-warns-critical-infrastructure-grave-risk",
+    "date": "Fri, 06 Nov 2026 09:00:00 GMT",
+    "description": "Britain's new Labour-led government is making a concerted push to get ahead of the AI risks to its national networks and the industrial complex."
+  },
+  {
+    "outlet": "Dark Reading",
+    "title": "SecurityDataPipeline.com Launches as a New Educational Resource for the AI Era",
+    "url": "https://www.darkreading.com/cybersecurity-operations/securitydatapipeline-com-launches-as-a-new-educational-resource-for-the-ai-era",
+    "date": "Thu, 05 Nov 2026 16:48:36 GMT",
+    "description": "The ungated resource explains how security data pipelines reduce SIEM ingestion costs, preserve detection coverage, and prepare the data layer for AI-driven security operations."
+  },
+  {
+    "outlet": "SecurityWeek",
+    "title": "VeroSecurity Raises $11 Million for AI Security Engineering Platform",
+    "url": "https://www.securityweek.com/verosecurity-raises-11-million-for-ai-security-engineering-platform/",
+    "date": "Wed, 18 Nov 2026 15:30:42 +0000",
+    "description": "<p>AI Security Engineering is a new and essential security discipline now being brought into focus by VeroSecurity.</p>\n<p>The post <a href=\"https://www.securityweek.com/verosecurity-raises-11-million-for-ai-security-engineering-platform/\">VeroSecurity Raises $11 Million for AI Security Engineering Platform</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "outlet": "SecurityWeek",
+    "title": "Microsoft Takes Perception Agentic Security Platform Out of Preview",
+    "url": "https://www.securityweek.com/microsoft-takes-perception-agentic-security-platform-out-of-preview/",
+    "date": "Wed, 18 Nov 2026 12:14:23 +0000",
+    "description": "<p>Four blue team agents and the Recon Agent are now generally available, while integrations and vulnerability shielding are in preview.</p>\n<p>The post <a href=\"https://www.securityweek.com/microsoft-takes-perception-agentic-security-platform-out-of-preview/\">Microsoft Takes Perception Agentic Security Platform Out of Preview</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "outlet": "SecurityWeek",
+    "title": "Microsoft Agent Framework Releases Poisoned With Credential Stealer",
+    "url": "https://www.securityweek.com/microsoft-agent-framework-releases-poisoned-with-credential-stealer/",
+    "date": "Wed, 18 Nov 2026 11:05:39 +0000",
+    "description": "<p>Versions 1.26.1 and 1.26.2 of agent-framework on PyPI steal Azure, Azure DevOps, and GitHub Actions credentials when Python starts.</p>\n<p>The post <a href=\"https://www.securityweek.com/microsoft-agent-framework-releases-poisoned-with-credential-stealer/\">Microsoft Agent Framework Releases Poisoned With Credential Stealer</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "outlet": "SecurityWeek",
+    "title": "Critical Perforce Puppet RCE Exploited in Attacks",
+    "url": "https://www.securityweek.com/critical-perforce-puppet-rce-exploited-in-attacks/",
+    "date": "Wed, 18 Nov 2026 10:37:08 +0000",
+    "description": "<p>Tracked as CVE-2026-115731, it allows a client that holds any CA-signed agent certificate to execute code on the server.</p>\n<p>The post <a href=\"https://www.securityweek.com/critical-perforce-puppet-rce-exploited-in-attacks/\">Critical Perforce Puppet RCE Exploited in Attacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "outlet": "Krebs on Security",
+    "title": "FBI Arrests Executive at Ransomware Negotiation Firm",
+    "url": "https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/",
+    "date": "Sat, 10 Oct 2026 00:17:42 +0000",
+    "description": "Agents with the Federal Bureau of Investigation (FBI) on Thursday arrested the co-founder of a Canadian cybersecurity firm in connection with an investigation into the ShinyHunters hacking group that recently relieved the FBI of sensitive data on thousands of agents, multiple sources tell KrebsOnSecurity."
+  }
+]

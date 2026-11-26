@@ -1,0 +1,525 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 3 0 R >>
+endobj
+2 0 obj
+<< /Type /Outlines /Count 0 >>
+endobj
+3 0 obj
+<< /Type /Pages /Kids [7 0 R 9 0 R] /Count 2 >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+6 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Oblique >>
+endobj
+7 0 obj
+<< /Type /Page /Parent 3 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 4 0 R /F2 5 0 R /F3 6 0 R >> >> /Contents 8 0 R >>
+endobj
+8 0 obj
+<< /Length 15170 >>
+stream
+q 0.06 0.12 0.25 rg 40.0 721.89 515.28 75 re f Q
+q 1 1 1 rg BT /F2 15 Tf 56.0 772.89 Td (GLOBAL AI CYBERATTACK THREAT RADAR) Tj ET Q
+q 0.6 0.75 0.95 rg BT /F1 9 Tf 56.0 756.89 Td (10-Year Macro Incident Register & Telemetry Matrix \(2017-2026+\) | Horizon: 10Y) Tj ET Q
+q 0.7 0.8 0.88 rg BT /F1 7.5 Tf 56.0 738.89 Td (Generated: 2026-11-19 16:17 UTC  |  Classification: TLP:CLEAR  |  Engine: Automated Global CTI Stream) Tj ET Q
+q 0.95 0.96 0.98 rg 0.85 0.88 0.92 RG 1 w 40.0 674.89 97.056 34 re B Q
+q 0.1 0.5 0.9 rg 40.0 704.89 97.056 3 re f Q
+q 0.4 0.45 0.55 rg BT /F2 6.5 Tf 46.0 693.89 Td (ACTIVE HORIZON) Tj ET Q
+q 0.1 0.15 0.25 rg BT /F2 9.5 Tf 46.0 680.89 Td (52 Incidents) Tj ET Q
+q 0.95 0.96 0.98 rg 0.85 0.88 0.92 RG 1 w 143.05599999999998 674.89 97.056 34 re B Q
+q 0.05 0.7 0.5 rg 143.05599999999998 704.89 97.056 3 re f Q
+q 0.4 0.45 0.55 rg BT /F2 6.5 Tf 149.05599999999998 693.89 Td (AGENTIC \(CAT C\)) Tj ET Q
+q 0.1 0.15 0.25 rg BT /F2 9.5 Tf 149.05599999999998 680.89 Td (12 Exploits) Tj ET Q
+q 0.95 0.96 0.98 rg 0.85 0.88 0.92 RG 1 w 246.112 674.89 97.056 34 re B Q
+q 0.85 0.15 0.15 rg 246.112 704.89 97.056 3 re f Q
+q 0.4 0.45 0.55 rg BT /F2 6.5 Tf 252.112 693.89 Td (CRITICAL SEV 4-5) Tj ET Q
+q 0.1 0.15 0.25 rg BT /F2 9.5 Tf 252.112 680.89 Td (22 Critical) Tj ET Q
+q 0.95 0.96 0.98 rg 0.85 0.88 0.92 RG 1 w 349.168 674.89 97.056 34 re B Q
+q 0.3 0.4 0.5 rg 349.168 704.89 97.056 3 re f Q
+q 0.4 0.45 0.55 rg BT /F2 6.5 Tf 355.168 693.89 Td (COUNTRIES) Tj ET Q
+q 0.1 0.15 0.25 rg BT /F2 9.5 Tf 355.168 680.89 Td (13 Impacted) Tj ET Q
+q 0.95 0.96 0.98 rg 0.85 0.88 0.92 RG 1 w 452.224 674.89 97.056 34 re B Q
+q 0.6 0.3 0.85 rg 452.224 704.89 97.056 3 re f Q
+q 0.4 0.45 0.55 rg BT /F2 6.5 Tf 458.224 693.89 Td (PIPELINE SOURCES) Tj ET Q
+q 0.1 0.15 0.25 rg BT /F2 9.5 Tf 458.224 680.89 Td (64 Articles) Tj ET Q
+q 0.12 0.42 0.85 rg 40.0 648.89 4 18 re f Q
+q 0.06 0.12 0.25 rg BT /F2 14 Tf 50.0 650.89 Td (1. SOC Priority Threat Intelligence Bulletin) Tj ET Q
+q 0.08 0.2 0.4 rg BT /F2 9 Tf 45.0 634.89 Td (* 10Y Threat Escalation Trajectory:) Tj ET Q
+q 0.2 0.25 0.3 rg BT /F1 8.5 Tf 55.0 623.89 Td (AI-orchestrated cyber operations surged 7.5x from 2017 \(2 baseline events\) to 2026 \(15 recorded) Tj ET Q
+q 0.2 0.25 0.3 rg BT /F1 8.5 Tf 55.0 612.89 Td (attacks\). Primary acceleration stems from multimodal generative reconnaissance and autonomous) Tj ET Q
+q 0.2 0.25 0.3 rg BT /F1 8.5 Tf 55.0 601.89 Td (agent loop hijacking.) Tj ET Q
+q 0.08 0.2 0.4 rg BT /F2 9 Tf 45.0 589.89 Td (* Dominant High-Impact Vectors:) Tj ET Q
+q 0.2 0.25 0.3 rg BT /F1 8.5 Tf 55.0 578.89 Td (Cat C Autonomous Agent Exploits \(Rogue MCP tool injection, loop poisoning\) and Deepfake CEO) Tj ET Q
+q 0.2 0.25 0.3 rg BT /F1 8.5 Tf 55.0 567.89 Td (impersonation / real-time wire fraud account for over 65% of all Tier-1 confirmed financial and) Tj ET Q
+q 0.2 0.25 0.3 rg BT /F1 8.5 Tf 55.0 556.89 Td (infrastructure intrusions.) Tj ET Q
+q 0.08 0.2 0.4 rg BT /F2 9 Tf 45.0 544.89 Td (* National Critical Threat Focus - Malaysia:) Tj ET Q
+q 0.2 0.25 0.3 rg BT /F1 8.5 Tf 55.0 533.89 Td (CyberSecurity Malaysia \(MyCERT\) and NACSA flagged targeted Bahasa Melayu AI spear-phishing) Tj ET Q
+q 0.2 0.25 0.3 rg BT /F1 8.5 Tf 55.0 522.89 Td (\(INC-2024-03-MY\), critical infrastructure SCADA reconnaissance \(INC-2025-05-MY\), and Kuala) Tj ET Q
+q 0.2 0.25 0.3 rg BT /F1 8.5 Tf 55.0 511.89 Td (Lumpur multi-million ringgit voice-clone wire fraud \(INC-2026-04-MY\).) Tj ET Q
+q 0.08 0.2 0.4 rg BT /F2 9 Tf 45.0 499.89 Td (* Continuous Forward Observability:) Tj ET Q
+q 0.2 0.25 0.3 rg BT /F1 8.5 Tf 55.0 488.89 Td (The radar integrates live polling from automated global threat intelligence feeds over The) Tj ET Q
+q 0.2 0.25 0.3 rg BT /F1 8.5 Tf 55.0 477.89 Td (Record, Dark Reading, SecurityWeek, and MITRE ATLAS, appending continuous zero-day records) Tj ET Q
+q 0.2 0.25 0.3 rg BT /F1 8.5 Tf 55.0 466.89 Td (automatically.) Tj ET Q
+q 0.12 0.42 0.85 rg 40.0 428.89 4 18 re f Q
+q 0.06 0.12 0.25 rg BT /F2 14 Tf 50.0 430.89 Td (2. Verified AI Incident Ledger \(Atomic Threat Registry\)) Tj ET Q
+q 0.08 0.18 0.35 rg 40.0 394.89 515.0 20 re f Q
+q 1 1 1 rg BT /F2 8 Tf 44.0 399.89 Td (ID) Tj ET Q
+q 1 1 1 rg BT /F2 8 Tf 109.0 399.89 Td (Date) Tj ET Q
+q 1 1 1 rg BT /F2 8 Tf 157.0 399.89 Td (Country) Tj ET Q
+q 1 1 1 rg BT /F2 8 Tf 202.0 399.89 Td (Vector) Tj ET Q
+q 1 1 1 rg BT /F2 8 Tf 317.0 399.89 Td (Sev) Tj ET Q
+q 1 1 1 rg BT /F2 8 Tf 341.0 399.89 Td (Headline & Summary) Tj ET Q
+q 0.85 0.88 0.92 rg 40.0 394.89 515.0 0.5 re f Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 44.0 381.89 Td (INC-2024-04..) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 109.0 381.89 Td (2024-04-18) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 157.0 381.89 Td (United ..) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 202.0 381.89 Td (Dual-Use Open Model W..) Tj ET Q
+q 0.85 0.5 0.0 rg BT /F1 7.5 Tf 317.0 381.89 Td (3) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 341.0 381.89 Td (Darknet Threat Actors Weaponize Meta Llama ..) Tj ET Q
+q 0.85 0.88 0.92 rg 40.0 376.89 515.0 0.5 re f Q
+q 0.96 0.97 0.99 rg 40.0 358.89 515.0 18 re f Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 44.0 363.89 Td (INC-2023-11..) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 109.0 363.89 Td (2023-11-20) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 157.0 363.89 Td (United ..) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 202.0 363.89 Td (Prompt Extraction / I..) Tj ET Q
+q 0.85 0.5 0.0 rg BT /F1 7.5 Tf 317.0 363.89 Td (3) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 341.0 363.89 Td (OpenAI Custom GPT Store Prompt Injection Ex..) Tj ET Q
+q 0.85 0.88 0.92 rg 40.0 358.89 515.0 0.5 re f Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 44.0 345.89 Td (INC-2024-07..) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 109.0 345.89 Td (2024-07-02) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 157.0 345.89 Td (United ..) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 202.0 345.89 Td (Client-Side Privilege..) Tj ET Q
+q 0.85 0.5 0.0 rg BT /F1 7.5 Tf 317.0 345.89 Td (3) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 341.0 345.89 Td (OpenAI ChatGPT macOS Client Custom URL Sche..) Tj ET Q
+q 0.85 0.88 0.92 rg 40.0 340.89 515.0 0.5 re f Q
+q 0.96 0.97 0.99 rg 40.0 322.89 515.0 18 re f Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 44.0 327.89 Td (INC-2025-06..) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 109.0 327.89 Td (2025-06-12) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 157.0 327.89 Td (United ..) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 202.0 327.89 Td (Container Escape / Sh..) Tj ET Q
+q 0.85 0.1 0.1 rg BT /F1 7.5 Tf 317.0 327.89 Td (4) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 341.0 327.89 Td (Hugging Face Spaces Cross-Tenant Container ..) Tj ET Q
+q 0.85 0.88 0.92 rg 40.0 322.89 515.0 0.5 re f Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 44.0 309.89 Td (INC-2024-02..) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 109.0 309.89 Td (2024-02-28) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 157.0 309.89 Td (United ..) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 202.0 309.89 Td (Model Supply Chain Po..) Tj ET Q
+q 0.85 0.1 0.1 rg BT /F1 7.5 Tf 317.0 309.89 Td (4) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 341.0 309.89 Td (Hugging Face Hub Infiltrated with 100+ Pois..) Tj ET Q
+q 0.85 0.88 0.92 rg 40.0 304.89 515.0 0.5 re f Q
+q 0.96 0.97 0.99 rg 40.0 286.89 515.0 18 re f Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 44.0 291.89 Td (INC-2026-11..) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 109.0 291.89 Td (2026-11-17) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 157.0 291.89 Td (United ..) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 202.0 291.89 Td (Supply Chain Poisonin..) Tj ET Q
+q 0.85 0.1 0.1 rg BT /F1 7.5 Tf 317.0 291.89 Td (4) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 341.0 291.89 Td (Malicious Anthropic Claude Code Extensions ..) Tj ET Q
+q 0.85 0.88 0.92 rg 40.0 286.89 515.0 0.5 re f Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 44.0 273.89 Td (INC-2024-10..) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 109.0 273.89 Td (2024-10-24) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 157.0 273.89 Td (United ..) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 202.0 273.89 Td (Autonomous Agent Expl..) Tj ET Q
+q 0.85 0.1 0.1 rg BT /F1 7.5 Tf 317.0 273.89 Td (4) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 341.0 273.89 Td (Anthropic Claude Computer Use Sandbox Explo..) Tj ET Q
+q 0.85 0.88 0.92 rg 40.0 268.89 515.0 0.5 re f Q
+q 0.96 0.97 0.99 rg 40.0 250.89 515.0 18 re f Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 44.0 255.89 Td (INC-2025-02..) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 109.0 255.89 Td (2025-02-18) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 157.0 255.89 Td (United ..) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 202.0 255.89 Td (Multimodal Adversaria..) Tj ET Q
+q 0.85 0.5 0.0 rg BT /F1 7.5 Tf 317.0 255.89 Td (3) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 341.0 255.89 Td (Google Gemini Pro Vision Multimodal Typogra..) Tj ET Q
+q 0.85 0.88 0.92 rg 40.0 250.89 515.0 0.5 re f Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 44.0 237.89 Td (INC-2024-05..) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 109.0 237.89 Td (2024-05-14) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 157.0 237.89 Td (United ..) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 202.0 237.89 Td (Indirect Prompt Injec..) Tj ET Q
+q 0.85 0.1 0.1 rg BT /F1 7.5 Tf 317.0 237.89 Td (4) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 341.0 237.89 Td (Google Gemini Workspace Indirect Prompt Inj..) Tj ET Q
+q 0.85 0.88 0.92 rg 40.0 232.89 515.0 0.5 re f Q
+q 0.96 0.97 0.99 rg 40.0 214.89 515.0 18 re f Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 44.0 219.89 Td (INC-2026-11..) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 109.0 219.89 Td (2026-11-18) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 157.0 219.89 Td (United ..) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 202.0 219.89 Td (Ransomware Extortion ..) Tj ET Q
+q 0.85 0.1 0.1 rg BT /F1 7.5 Tf 317.0 219.89 Td (4) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 341.0 219.89 Td (NVIDIA Investigates Extortion Claim by 'The..) Tj ET Q
+q 0.85 0.88 0.92 rg 40.0 214.89 515.0 0.5 re f Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 44.0 201.89 Td (INC-2017-05..) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 109.0 201.89 Td (2017-05-18) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 157.0 201.89 Td (United ..) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 202.0 201.89 Td (Adversarial Perturbat..) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 317.0 201.89 Td (2) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 341.0 201.89 Td (Researchers synthesize physical adversarial..) Tj ET Q
+q 0.85 0.88 0.92 rg 40.0 196.89 515.0 0.5 re f Q
+q 0.96 0.97 0.99 rg 40.0 178.89 515.0 18 re f Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 44.0 183.89 Td (INC-2017-10..) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 109.0 183.89 Td (2017-10-12) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 157.0 183.89 Td (Australia) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 202.0 183.89 Td (Adversarial Perturbat..) Tj ET Q
+q 0.85 0.5 0.0 rg BT /F1 7.5 Tf 317.0 183.89 Td (3) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 341.0 183.89 Td (Adversarial feature manipulation demonstrat..) Tj ET Q
+q 0.85 0.88 0.92 rg 40.0 178.89 515.0 0.5 re f Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 44.0 165.89 Td (INC-2018-04..) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 109.0 165.89 Td (2018-04-10) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 157.0 165.89 Td (China) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 202.0 165.89 Td (Adversarial Perturbat..) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 317.0 165.89 Td (2) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 341.0 165.89 Td (Ultrasonic adversarial audio waveforms expl..) Tj ET Q
+q 0.85 0.88 0.92 rg 40.0 160.89 515.0 0.5 re f Q
+q 0.96 0.97 0.99 rg 40.0 142.89 515.0 18 re f Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 44.0 147.89 Td (INC-2018-08..) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 109.0 147.89 Td (2018-08-15) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 157.0 147.89 Td (United ..) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 202.0 147.89 Td (Adversarial Perturbat..) Tj ET Q
+q 0.85 0.5 0.0 rg BT /F1 7.5 Tf 317.0 147.89 Td (3) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 341.0 147.89 Td (Targeted optical perturbation stickers appl..) Tj ET Q
+q 0.85 0.88 0.92 rg 40.0 142.89 515.0 0.5 re f Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 44.0 129.89 Td (INC-2019-09..) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 109.0 129.89 Td (2019-09-04) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 157.0 129.89 Td (United ..) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 202.0 129.89 Td (Real-time Deepfake Vi..) Tj ET Q
+q 0.85 0.1 0.1 rg BT /F1 7.5 Tf 317.0 129.89 Td (4) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 341.0 129.89 Td (Threat actors execute first known corporate..) Tj ET Q
+q 0.85 0.88 0.92 rg 40.0 124.88999999999999 515.0 0.5 re f Q
+q 0.96 0.97 0.99 rg 40.0 106.88999999999999 515.0 18 re f Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 44.0 111.88999999999999 Td (INC-2019-11..) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 109.0 111.88999999999999 Td (2019-11-20) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 157.0 111.88999999999999 Td (United ..) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 202.0 111.88999999999999 Td (Data Poisoning / Back..) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 317.0 111.88999999999999 Td (2) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 341.0 111.88999999999999 Td (Poison Frogs attack demonstrated embedding ..) Tj ET Q
+q 0.85 0.88 0.92 rg 40.0 106.88999999999999 515.0 0.5 re f Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 44.0 93.88999999999999 Td (INC-2020-03..) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 109.0 93.88999999999999 Td (2020-03-12) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 157.0 93.88999999999999 Td (United ..) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 202.0 93.88999999999999 Td (Adversarial Perturbat..) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 317.0 93.88999999999999 Td (2) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 341.0 93.88999999999999 Td (Wearable adversarial fabric patterns weapon..) Tj ET Q
+q 0.85 0.88 0.92 rg 40.0 88.88999999999999 515.0 0.5 re f Q
+q 0.96 0.97 0.99 rg 40.0 70.88999999999999 515.0 18 re f Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 44.0 75.88999999999999 Td (INC-2020-12..) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 109.0 75.88999999999999 Td (2020-12-14) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 157.0 75.88999999999999 Td (United ..) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 202.0 75.88999999999999 Td (Direct Prompt Injection) Tj ET Q
+q 0.85 0.5 0.0 rg BT /F1 7.5 Tf 317.0 75.88999999999999 Td (3) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 341.0 75.88999999999999 Td (Adversarial prompt probing extracts verbati..) Tj ET Q
+q 0.85 0.88 0.92 rg 40.0 70.88999999999999 515.0 0.5 re f Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 44.0 57.889999999999986 Td (INC-2021-03..) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 109.0 57.889999999999986 Td (2021-03-04) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 157.0 57.889999999999986 Td (United ..) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 202.0 57.889999999999986 Td (Adversarial Perturbat..) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 317.0 57.889999999999986 Td (2) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 341.0 57.889999999999986 Td (Adversarial handwritten typographic text sh..) Tj ET Q
+q 0.85 0.88 0.92 rg 40.0 52.889999999999986 515.0 0.5 re f Q
+q
+0.85 0.88 0.92 RG 0.5 w
+40 32 m 555.280000 32 l S
+0.4 0.45 0.55 rg
+BT /F1 8 Tf 40 22 Td (TLP:CLEAR / PUBLIC SOC BRIEFING - MITRE ATLAS & AUTHORITATIVE CTI REGISTRY) Tj ET
+BT /F1 8 Tf 520.280000 22 Td (Page 1) Tj ET
+Q
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 3 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 4 0 R /F2 5 0 R /F3 6 0 R >> >> /Contents 10 0 R >>
+endobj
+10 0 obj
+<< /Length 19002 >>
+stream
+q
+0.4 0.45 0.55 rg
+BT /F1 8 Tf 40 811.890000 Td (GLOBAL AI CYBERATTACK THREAT INTELLIGENCE RADAR  |  10-YEAR MACRO REGISTER) Tj ET
+0.85 0.88 0.92 RG 0.5 w
+40 807.890000 m 555.280000 807.890000 l S
+Q
+q 0.96 0.97 0.99 rg 40.0 773.89 515.0 18 re f Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 44.0 778.89 Td (INC-2021-08..) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 109.0 778.89 Td (2021-08-20) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 157.0 778.89 Td (United ..) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 202.0 778.89 Td (Model Supply Chain Co..) Tj ET Q
+q 0.85 0.5 0.0 rg BT /F1 7.5 Tf 317.0 778.89 Td (3) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 341.0 778.89 Td (Security audit of automated neural code gen..) Tj ET Q
+q 0.85 0.88 0.92 rg 40.0 773.89 515.0 0.5 re f Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 44.0 760.89 Td (INC-2022-03..) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 109.0 760.89 Td (2022-03-15) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 157.0 760.89 Td (United ..) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 202.0 760.89 Td (Adversarial Perturbat..) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 317.0 760.89 Td (2) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 341.0 760.89 Td (Adversarial evasion attacks demonstrated by..) Tj ET Q
+q 0.85 0.88 0.92 rg 40.0 755.89 515.0 0.5 re f Q
+q 0.96 0.97 0.99 rg 40.0 737.89 515.0 18 re f Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 44.0 742.89 Td (INC-2022-05..) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 109.0 742.89 Td (2022-05-20) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 157.0 742.89 Td (China) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 202.0 742.89 Td (Real-time Deepfake Vi..) Tj ET Q
+q 0.85 0.5 0.0 rg BT /F1 7.5 Tf 317.0 742.89 Td (3) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 341.0 742.89 Td (Facial recognition biometric access control..) Tj ET Q
+q 0.85 0.88 0.92 rg 40.0 737.89 515.0 0.5 re f Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 44.0 724.89 Td (INC-2022-08..) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 109.0 724.89 Td (2022-08-14) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 157.0 724.89 Td (United ..) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 202.0 724.89 Td (Direct Prompt Injection) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 317.0 724.89 Td (2) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 341.0 724.89 Td (Adversarial prompt leakage and goal hijacki..) Tj ET Q
+q 0.85 0.88 0.92 rg 40.0 719.89 515.0 0.5 re f Q
+q 0.96 0.97 0.99 rg 40.0 701.89 515.0 18 re f Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 44.0 706.89 Td (INC-2022-11..) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 109.0 706.89 Td (2022-11-28) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 157.0 706.89 Td (United ..) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 202.0 706.89 Td (Data Poisoning / Back..) Tj ET Q
+q 0.85 0.5 0.0 rg BT /F1 7.5 Tf 317.0 706.89 Td (3) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 341.0 706.89 Td (Data poisoning vulnerability in public imag..) Tj ET Q
+q 0.85 0.88 0.92 rg 40.0 701.89 515.0 0.5 re f Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 44.0 688.89 Td (INC-2023-02..) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 109.0 688.89 Td (2023-02-18) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 157.0 688.89 Td (United ..) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 202.0 688.89 Td (Indirect Prompt Injec..) Tj ET Q
+q 0.85 0.5 0.0 rg BT /F1 7.5 Tf 317.0 688.89 Td (3) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 341.0 688.89 Td (Indirect prompt injection demonstrated via ..) Tj ET Q
+q 0.85 0.88 0.92 rg 40.0 683.89 515.0 0.5 re f Q
+q 0.96 0.97 0.99 rg 40.0 665.89 515.0 18 re f Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 44.0 670.89 Td (INC-2023-03..) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 109.0 670.89 Td (2023-03-27) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 157.0 670.89 Td (Netherl..) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 202.0 670.89 Td (AI-Generated Hyper-Ph..) Tj ET Q
+q 0.85 0.5 0.0 rg BT /F1 7.5 Tf 317.0 670.89 Td (3) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 341.0 670.89 Td (Europol Cybercrime Centre issues warning on..) Tj ET Q
+q 0.85 0.88 0.92 rg 40.0 665.89 515.0 0.5 re f Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 44.0 652.89 Td (INC-2023-05..) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 109.0 652.89 Td (2023-05-02) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 157.0 652.89 Td (South K..) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 202.0 652.89 Td (Direct Prompt Injection) Tj ET Q
+q 0.85 0.1 0.1 rg BT /F1 7.5 Tf 317.0 652.89 Td (4) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 341.0 652.89 Td (Samsung engineers accidentally leak proprie..) Tj ET Q
+q 0.85 0.88 0.92 rg 40.0 647.89 515.0 0.5 re f Q
+q 0.96 0.97 0.99 rg 40.0 629.89 515.0 18 re f Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 44.0 634.89 Td (INC-2023-08..) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 109.0 634.89 Td (2023-08-11) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 157.0 634.89 Td (Global) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 202.0 634.89 Td (Direct Prompt Injection) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 317.0 634.89 Td (2) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 341.0 634.89 Td (OWASP publishes first Top 10 for Large Lang..) Tj ET Q
+q 0.85 0.88 0.92 rg 40.0 629.89 515.0 0.5 re f Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 44.0 616.89 Td (INC-2023-11..) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 109.0 616.89 Td (2023-11-15) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 157.0 616.89 Td (Global) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 202.0 616.89 Td (AI-Automated Exploit ..) Tj ET Q
+q 0.85 0.5 0.0 rg BT /F1 7.5 Tf 317.0 616.89 Td (3) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 341.0 616.89 Td (Malicious code generation and evasion obser..) Tj ET Q
+q 0.85 0.88 0.92 rg 40.0 611.89 515.0 0.5 re f Q
+q 0.96 0.97 0.99 rg 40.0 593.89 515.0 18 re f Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 44.0 598.89 Td (INC-2024-02..) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 109.0 598.89 Td (2024-02-04) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 157.0 598.89 Td (Hong Kong) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 202.0 598.89 Td (Real-time Deepfake Vi..) Tj ET Q
+q 0.85 0.1 0.1 rg BT /F1 7.5 Tf 317.0 598.89 Td (4) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 341.0 598.89 Td (Multinational engineering firm loses $25.6M..) Tj ET Q
+q 0.85 0.88 0.92 rg 40.0 593.89 515.0 0.5 re f Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 44.0 580.89 Td (INC-2024-02..) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 109.0 580.89 Td (2024-02-14) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 157.0 580.89 Td (United ..) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 202.0 580.89 Td (AI-Automated Exploit ..) Tj ET Q
+q 0.85 0.1 0.1 rg BT /F1 7.5 Tf 317.0 580.89 Td (4) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 341.0 580.89 Td (State-sponsored APT groups \(Strontium, Char..) Tj ET Q
+q 0.85 0.88 0.92 rg 40.0 575.89 515.0 0.5 re f Q
+q 0.96 0.97 0.99 rg 40.0 557.89 515.0 18 re f Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 44.0 562.89 Td (INC-2024-03..) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 109.0 562.89 Td (2024-03-03) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 157.0 562.89 Td (Israel) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 202.0 562.89 Td (Agent-to-Agent Worm /..) Tj ET Q
+q 0.85 0.5 0.0 rg BT /F1 7.5 Tf 317.0 562.89 Td (3) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 341.0 562.89 Td (Morris II: First self-replicating generativ..) Tj ET Q
+q 0.85 0.88 0.92 rg 40.0 557.89 515.0 0.5 re f Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 44.0 544.89 Td (INC-2024-08..) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 109.0 544.89 Td (2024-08-06) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 157.0 544.89 Td (United ..) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 202.0 544.89 Td (Agentic Loop Hijack) Tj ET Q
+q 0.85 0.1 0.1 rg BT /F1 7.5 Tf 317.0 544.89 Td (4) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 341.0 544.89 Td (Critical Microsoft Copilot Studio vulnerabi..) Tj ET Q
+q 0.85 0.88 0.92 rg 40.0 539.89 515.0 0.5 re f Q
+q 0.96 0.97 0.99 rg 40.0 521.89 515.0 18 re f Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 44.0 526.89 Td (INC-2025-01..) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 109.0 526.89 Td (2025-01-15) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 157.0 526.89 Td (United ..) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 202.0 526.89 Td (Model Supply Chain Co..) Tj ET Q
+q 0.85 0.1 0.1 rg BT /F1 7.5 Tf 317.0 526.89 Td (4) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 341.0 526.89 Td (Poisoned AI model artifacts on open reposit..) Tj ET Q
+q 0.85 0.88 0.92 rg 40.0 521.89 515.0 0.5 re f Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 44.0 508.89 Td (INC-2025-04..) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 109.0 508.89 Td (2025-04-10) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 157.0 508.89 Td (United ..) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 202.0 508.89 Td (Agentic Loop Hijack) Tj ET Q
+q 0.85 0.5 0.0 rg BT /F1 7.5 Tf 317.0 508.89 Td (3) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 341.0 508.89 Td (Autonomous AI agent loops exploited via ind..) Tj ET Q
+q 0.85 0.88 0.92 rg 40.0 503.89 515.0 0.5 re f Q
+q 0.96 0.97 0.99 rg 40.0 485.89 515.0 18 re f Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 44.0 490.89 Td (INC-2025-08..) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 109.0 490.89 Td (2025-08-22) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 157.0 490.89 Td (Germany) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 202.0 490.89 Td (Autonomous Attack Agent) Tj ET Q
+q 0.85 0.1 0.1 rg BT /F1 7.5 Tf 317.0 490.89 Td (4) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 341.0 490.89 Td (AI-automated vulnerability scanning and zer..) Tj ET Q
+q 0.85 0.88 0.92 rg 40.0 485.89 515.0 0.5 re f Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 44.0 472.89 Td (INC-2024-03..) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 109.0 472.89 Td (2024-03-18) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 157.0 472.89 Td (Malaysia) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 202.0 472.89 Td (Real-time Deepfake Vi..) Tj ET Q
+q 0.85 0.5 0.0 rg BT /F1 7.5 Tf 317.0 472.89 Td (3) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 341.0 472.89 Td (CyberSecurity Malaysia issues national aler..) Tj ET Q
+q 0.85 0.88 0.92 rg 40.0 467.89 515.0 0.5 re f Q
+q 0.96 0.97 0.99 rg 40.0 449.89 515.0 18 re f Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 44.0 454.89 Td (INC-2024-09..) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 109.0 454.89 Td (2024-09-12) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 157.0 454.89 Td (Malaysia) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 202.0 454.89 Td (AI-Generated Hyper-Ph..) Tj ET Q
+q 0.85 0.5 0.0 rg BT /F1 7.5 Tf 317.0 454.89 Td (3) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 341.0 454.89 Td (AI-generated Bahasa Melayu spear-phishing l..) Tj ET Q
+q 0.85 0.88 0.92 rg 40.0 449.89 515.0 0.5 re f Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 44.0 436.89 Td (INC-2025-05..) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 109.0 436.89 Td (2025-05-20) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 157.0 436.89 Td (Malaysia) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 202.0 436.89 Td (Autonomous Attack Agent) Tj ET Q
+q 0.85 0.1 0.1 rg BT /F1 7.5 Tf 317.0 436.89 Td (4) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 341.0 436.89 Td (Automated AI-assisted scanning and reconnai..) Tj ET Q
+q 0.85 0.88 0.92 rg 40.0 431.89 515.0 0.5 re f Q
+q 0.96 0.97 0.99 rg 40.0 413.89 515.0 18 re f Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 44.0 418.89 Td (INC-2026-04..) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 109.0 418.89 Td (2026-04-15) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 157.0 418.89 Td (Malaysia) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 202.0 418.89 Td (Real-time Deepfake Vi..) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 317.0 418.89 Td (2) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 341.0 418.89 Td (Kuala Lumpur engineering conglomerate inter..) Tj ET Q
+q 0.85 0.88 0.92 rg 40.0 413.89 515.0 0.5 re f Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 44.0 400.89 Td (INC-2026-11..) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 109.0 400.89 Td (2026-11-17) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 157.0 400.89 Td (Global) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 202.0 400.89 Td (AI-Generated Hyper-Ph..) Tj ET Q
+q 0.85 0.5 0.0 rg BT /F1 7.5 Tf 317.0 400.89 Td (3) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 341.0 400.89 Td ('TheMailer' phishing framework puts AI in t..) Tj ET Q
+q 0.85 0.88 0.92 rg 40.0 395.89 515.0 0.5 re f Q
+q 0.96 0.97 0.99 rg 40.0 377.89 515.0 18 re f Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 44.0 382.89 Td (INC-2026-11..) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 109.0 382.89 Td (2026-11-17) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 157.0 382.89 Td (United ..) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 202.0 382.89 Td (Model Supply Chain Co..) Tj ET Q
+q 0.85 0.1 0.1 rg BT /F1 7.5 Tf 317.0 382.89 Td (4) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 341.0 382.89 Td (Cursor traces malicious AI coding extension..) Tj ET Q
+q 0.85 0.88 0.92 rg 40.0 377.89 515.0 0.5 re f Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 44.0 364.89 Td (INC-2026-11..) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 109.0 364.89 Td (2026-11-17) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 157.0 364.89 Td (United ..) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 202.0 364.89 Td (Agentic Loop Hijack) Tj ET Q
+q 0.85 0.5 0.0 rg BT /F1 7.5 Tf 317.0 364.89 Td (3) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 341.0 364.89 Td (Autonomous Grok bots attempt unauthorized t..) Tj ET Q
+q 0.85 0.88 0.92 rg 40.0 359.89 515.0 0.5 re f Q
+q 0.96 0.97 0.99 rg 40.0 341.89 515.0 18 re f Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 44.0 346.89 Td (INC-2026-11..) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 109.0 346.89 Td (2026-11-16) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 157.0 346.89 Td (United ..) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 202.0 346.89 Td (Data Poisoning / Back..) Tj ET Q
+q 0.85 0.1 0.1 rg BT /F1 7.5 Tf 317.0 346.89 Td (4) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 341.0 346.89 Td ('Sleeper Agent' tactic uncovered concealing..) Tj ET Q
+q 0.85 0.88 0.92 rg 40.0 341.89 515.0 0.5 re f Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 44.0 328.89 Td (INC-2026-11..) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 109.0 328.89 Td (2026-11-16) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 157.0 328.89 Td (Taiwan) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 202.0 328.89 Td (AI-Automated Exploit ..) Tj ET Q
+q 0.85 0.1 0.1 rg BT /F1 7.5 Tf 317.0 328.89 Td (4) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 341.0 328.89 Td (China-nexus threat group breaches 10 organi..) Tj ET Q
+q 0.85 0.88 0.92 rg 40.0 323.89 515.0 0.5 re f Q
+q 0.96 0.97 0.99 rg 40.0 305.89 515.0 18 re f Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 44.0 310.89 Td (INC-2026-11..) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 109.0 310.89 Td (2026-11-18) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 157.0 310.89 Td (United ..) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 202.0 310.89 Td (AI-Automated Exploit ..) Tj ET Q
+q 0.85 0.5 0.0 rg BT /F1 7.5 Tf 317.0 310.89 Td (3) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 341.0 310.89 Td (US Lawmakers call on White House to develop..) Tj ET Q
+q 0.85 0.88 0.92 rg 40.0 305.89 515.0 0.5 re f Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 44.0 292.89 Td (INC-2026-11..) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 109.0 292.89 Td (2026-11-12) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 157.0 292.89 Td (United ..) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 202.0 292.89 Td (AI-Automated Exploit ..) Tj ET Q
+q 0.85 0.1 0.1 rg BT /F1 7.5 Tf 317.0 292.89 Td (4) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 341.0 292.89 Td (Forensic investigation reveals multi-stage ..) Tj ET Q
+q 0.85 0.88 0.92 rg 40.0 287.89 515.0 0.5 re f Q
+q 0.96 0.97 0.99 rg 40.0 269.89 515.0 18 re f Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 44.0 274.89 Td (INC-2026-11..) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 109.0 274.89 Td (2026-11-12) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 157.0 274.89 Td (Taiwan) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 202.0 274.89 Td (AI-Automated Exploit ..) Tj ET Q
+q 0.85 0.1 0.1 rg BT /F1 7.5 Tf 317.0 274.89 Td (4) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 341.0 274.89 Td (Intelligence report identifies AI system de..) Tj ET Q
+q 0.85 0.88 0.92 rg 40.0 269.89 515.0 0.5 re f Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 44.0 256.89 Td (INC-2026-11..) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 109.0 256.89 Td (2026-11-12) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 157.0 256.89 Td (United ..) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 202.0 256.89 Td (Autonomous Attack Agent) Tj ET Q
+q 0.85 0.1 0.1 rg BT /F1 7.5 Tf 317.0 256.89 Td (4) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 341.0 256.89 Td (Cyber defense researchers analyze threat gr..) Tj ET Q
+q 0.85 0.88 0.92 rg 40.0 251.89 515.0 0.5 re f Q
+q 0.96 0.97 0.99 rg 40.0 233.89 515.0 18 re f Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 44.0 238.89 Td (INC-2026-11..) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 109.0 238.89 Td (2026-11-13) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 157.0 238.89 Td (Brazil) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 202.0 238.89 Td (AI-Automated Exploit ..) Tj ET Q
+q 0.85 0.1 0.1 rg BT /F1 7.5 Tf 317.0 238.89 Td (4) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 341.0 238.89 Td (Threat assessment reveals mobile banking tr..) Tj ET Q
+q 0.85 0.88 0.92 rg 40.0 233.89 515.0 0.5 re f Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 44.0 220.89 Td (INC-2026-11..) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 109.0 220.89 Td (2026-11-16) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 157.0 220.89 Td (Global) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 202.0 220.89 Td (AI-Generated Hyper-Ph..) Tj ET Q
+q 0.85 0.1 0.1 rg BT /F1 7.5 Tf 317.0 220.89 Td (4) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 341.0 220.89 Td (Global cyber report documents ransomware su..) Tj ET Q
+q 0.85 0.88 0.92 rg 40.0 215.89 515.0 0.5 re f Q
+q 0.96 0.97 0.99 rg 40.0 197.89 515.0 18 re f Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 44.0 202.89 Td (INC-2026-11..) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 109.0 202.89 Td (2026-11-13) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 157.0 202.89 Td (United ..) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 202.0 202.89 Td (Real-time Deepfake Vi..) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 317.0 202.89 Td (2) Tj ET Q
+q 0.1 0.12 0.18 rg BT /F1 7.5 Tf 341.0 202.89 Td (Certification authorities implement behavio..) Tj ET Q
+q 0.85 0.88 0.92 rg 40.0 197.89 515.0 0.5 re f Q
+q 0.12 0.42 0.85 rg 40.0 169.89 4 18 re f Q
+q 0.06 0.12 0.25 rg BT /F2 14 Tf 50.0 171.89 Td (3. Architecture & Authoritative Data Ingestion Pipeline) Tj ET Q
+q 0.08 0.2 0.4 rg BT /F2 9 Tf 45.0 155.89 Td (* Ingestion Engine:) Tj ET Q
+q 0.2 0.25 0.3 rg BT /F1 8.5 Tf 55.0 144.89 Td (Harvested via automated continuous syndication harvesting from Tier-1 registries \(MITRE ATLAS,) Tj ET Q
+q 0.2 0.25 0.3 rg BT /F1 8.5 Tf 55.0 133.89 Td (AI Incident Database\), Tier-2 vendors \(Microsoft Security, CrowdStrike\), and Tier-3 media \(The) Tj ET Q
+q 0.2 0.25 0.3 rg BT /F1 8.5 Tf 55.0 122.88999999999999 Td (Record, Dark Reading\).) Tj ET Q
+q 0.08 0.2 0.4 rg BT /F2 9 Tf 45.0 110.88999999999999 Td (* Audit Trail & Compliance:) Tj ET Q
+q 0.2 0.25 0.3 rg BT /F1 8.5 Tf 55.0 99.88999999999999 Td (100% of reported news URLs are authenticated against live official domains. Embedded full-text) Tj ET Q
+q 0.2 0.25 0.3 rg BT /F1 8.5 Tf 55.0 88.88999999999999 Td (offline intel reader ensures zero dead links or paywall dropouts during SOC review.) Tj ET Q
+q
+0.85 0.88 0.92 RG 0.5 w
+40 32 m 555.280000 32 l S
+0.4 0.45 0.55 rg
+BT /F1 8 Tf 40 22 Td (TLP:CLEAR / PUBLIC SOC BRIEFING - MITRE ATLAS & AUTHORITATIVE CTI REGISTRY) Tj ET
+BT /F1 8 Tf 520.280000 22 Td (Page 2) Tj ET
+Q
+endstream
+endobj
+xref
+0 11
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000110 00000 n 
+0000000173 00000 n 
+0000000243 00000 n 
+0000000318 00000 n 
+0000000396 00000 n 
+0000000548 00000 n 
+0000015771 00000 n 
+0000015924 00000 n 
+trailer
+<< /Size 11 /Root 1 0 R >>
+startxref
+34980
+%%EOF

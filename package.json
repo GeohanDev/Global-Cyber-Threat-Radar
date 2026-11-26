@@ -1,0 +1,8 @@
+{
+  "name": "global-ai-cyberattack-radar",
+  "version": "1.0.0",
+  "description": "Global AI Cyberattack Threat Radar",
+  "scripts": {
+    "build": "echo 'Dashboard static build ready'"
+  }
+}
